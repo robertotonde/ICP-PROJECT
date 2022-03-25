@@ -90,4 +90,4 @@ Some third-party plugins that we used to build this template. Please check their
 * **Jquery**: https://jquery.com/download/
 * **Google Fonts**: http://fonts.google.com/
 * **Font Awesome Free**: https://fontawesome.com/
-* **Icofont 1.0.1**: https://icofont.com/
+* **Icofont 1.0.1**: https://icofont.com/# ICP-PROJECT
